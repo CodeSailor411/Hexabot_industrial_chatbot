@@ -1,6 +1,6 @@
-# Optibuddy ERP Chatbot: A Customized Solution for Industrial Sustainability  
+# Industrial ERP Chatbot: A Customized Solution for Industrial Sustainability  
 
-Welcome to the **Optibuddy ERP Chatbot Project**, powered by Hexabot! This project leverages Hexabot’s versatile framework to develop a customized chatbot solution integrated with ERP systems to address industrial sustainability and operational efficiency.  
+Welcome to the ** ERP Chatbot Project**, powered by Hexabot! This project leverages Hexabot’s versatile framework to develop a customized chatbot solution integrated with ERP systems to address industrial sustainability and operational efficiency.  
 
 This chatbot empowers industries with AI-driven insights for HR management, supply chain optimization, production analytics, sales forecasting, and environmental compliance. Designed to facilitate workflows and enhance decision-making, it seamlessly integrates with existing ERP systems, enabling real-time data analysis and actionable recommendations.  
 
