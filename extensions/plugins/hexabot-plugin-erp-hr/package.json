@@ -1,0 +1,6 @@
+{
+  "name": "hexabot-plugin-erp-hr",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "description": "Hexabot plugin to fetch mock employee attendance data."
+}
